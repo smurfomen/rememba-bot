@@ -1,0 +1,30 @@
+{
+    "users": [
+        {
+            "cards": [
+                {
+                    "original": "шляпа",
+                    "translate": "hat"
+                },
+                {
+                    "original": "мяч",
+                    "translate": "ball"
+                },
+                {
+                    "original": "животное",
+                    "translate": "animal"
+                },
+                {
+                    "original": "скоростная дорога",
+                    "translate": "highway"
+                },
+                {
+                    "original": "кролик",
+                    "translate": "rabbit"
+                }
+            ],
+            "chat_id": 255403423,
+            "username": "smurfomen"
+        }
+    ]
+}
